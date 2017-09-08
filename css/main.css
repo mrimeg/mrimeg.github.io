@@ -1818,7 +1818,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c3ffff;
+  background: #60ee0a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3063,11 +3063,4 @@ a {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   left: 30px;
-}
-.footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  min-height: 50px;
 }
