@@ -1818,7 +1818,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb8e7;
+  background: #12ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2911,6 +2911,9 @@ hr {
 .ds-top-threads li a:hover {
   border-left: 8px solid #4d768c;
 }
+.header {
+  background: url("/images/header-bk.jpg");
+}
 .site-meta {
   float: none;
 }
@@ -2923,7 +2926,7 @@ hr {
 }
 .menu .menu-item a {
   font-size: 14px;
-  color: #0f2e41;
+  color: #fff;
   border-radius: 4px;
 }
 .site-meta {
